@@ -1,4 +1,4 @@
-Olá bem vindo. 
+Olá, bem-vindo! 
 
 - 🔭 Hoje trabalho com back-end(java) e front-end(angular).
 - 🌱 Estudando TypeScript

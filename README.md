@@ -3,11 +3,6 @@ Olá, bem-vindo!
 - 🔭 Hoje trabalho com back-end(java) e front-end(angular).
 - 🌱 Estudando TypeScript
 
-<div>
-  <a href="https://awesome-wing-5cced4.netlify.app"> Um pouco sobre mim </a>
-</div>
-
-
 <div align="center">
   <a href="https://github.com/joulucas">
  <!-- <img height="170em" src="https://github-readme-stats.vercel.app/api?username=joulucas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
@@ -38,6 +33,14 @@ Olá, bem-vindo!
 
    <a href="https://www.linkedin.com/in/joubert-lucas-38303189/" target="_blank">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+
+   <a href="https://wa.me/5534997932224?text=Oi" target="_blank">
+   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
+  </a> 
+
+   <a href="https://awesome-wing-5cced4.netlify.app" target="_blank">
+   <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank">
   </a> 
  
   <a href="https://instagram.com/joulucas" target="_blank">

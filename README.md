@@ -28,6 +28,14 @@ Olá, bem-vindo!
 
   <img align="center" alt="jou-ubuntu" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
 
+  <img align="center" alt="jou-ubuntu" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
+  <img align="center" alt="jou-ubuntu" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+
+  <img align="center" alt="jou-ubuntu" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
+
+  <img align="center" alt="jou-ubuntu" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+
 
 </div>
   

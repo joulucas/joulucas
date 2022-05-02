@@ -3,6 +3,10 @@ Olá, bem-vindo!
 - 🔭 Hoje trabalho com back-end(java) e front-end(angular).
 - 🌱 Estudando TypeScript
 
+<div>
+  <a href="https://awesome-wing-5cced4.netlify.app"> Um pouco sobre mim </a>
+</div>
+
 
 <div align="center">
   <a href="https://github.com/joulucas">

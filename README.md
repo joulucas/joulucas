@@ -6,7 +6,7 @@ Olá, bem-vindo!
 
 <div align="center">
   <a href="https://github.com/joulucas">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=joulucas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ <!-- <img height="170em" src="https://github-readme-stats.vercel.app/api?username=joulucas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joulucas&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
@@ -48,7 +48,6 @@ Olá, bem-vindo!
    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
    </a>
     
-  
  <a href="https://open.spotify.com/user/22keloepab3js3st2zpclolqq" target="_blank">
    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank">
   </a> 

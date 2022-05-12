@@ -50,7 +50,7 @@ Olá, bem-vindo!
    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
   </a> 
 
-   <a href="https://awesome-wing-5cced4.netlify.app" target="_blank">
+   <a href="http://joulucas.com.br/" target="_blank">
    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank">
   </a> 
  
